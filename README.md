@@ -25,7 +25,7 @@ Repositorio de la imagen:
 docker pull hagui1978/backend-zapatillas:1.0.0
 
 
-### Ejecutar imagen
+#### Ejecutar imagen
 ```bash
 docker run -p 9090:9090 hagui1978/backend-zapatillas:1.0.0
 
